@@ -8,7 +8,14 @@ Willkommen auf meinem GitHub-Profil! Ich befinde mich aktuell im strategischen Q
 
 Ich lerne jeden zweiten Tag kontinuierlich und diszipliniert. Hier ist der aktuelle Stand meines Wissens:
 
-### ✅ Kurs 1: Technische Support-Grundlagen (Abgeschlossen)
+### ✅ Kurs 1: Einführung in die IT (Abgeschlossen)
+
+- Einführung in den IT-Support
+- Geschichte des Computerwesens
+- Digitale Logik
+- Computer Architektur Schicht
+- Überprüfung der Module
+
 * Grundlagen der Hardware-Komponenten (CPU, RAM, Speicher) und deren Zusammenspiel.
 * Installation und Konfiguration von Betriebssystemen (Windows/Linux).
 * Logische Herangehensweise an die Fehlersuche (Troubleshooting-Prozess).
